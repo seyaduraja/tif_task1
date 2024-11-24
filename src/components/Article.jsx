@@ -67,18 +67,18 @@ function Article() {
      >
         <SwiperSlide > 
           <div className='flex flex-col md:flex-row justify-center items-center gap-[50px]'>
-             <Post image={image1} posttitle = "Grilled  Tomatoes at Home"/>
-             <Post image={image1} posttitle = "Grilled  Tomatoes at Home"/>
-             <Post image={image1} posttitle = "Grilled  Tomatoes at Home"/>
+             <Post image={image2} posttitle = "Grilled  Tomatoes at Home"/>
+             <Post image={image6} posttitle = "snacks for Travel"/>
+             <Post image={image3} posttitle = "Post-Workout Recipes"/>
           </div>
               
         </SwiperSlide>
 
         <SwiperSlide > 
           <div className='flex flex-col md:flex-row justify-center items-center gap-[50px]' >
-             <Post image={image1} posttitle = "Grilled  Tomatoes at Home"/>
-             <Post image={image1} posttitle = "Grilled  Tomatoes at Home"/>
-             <Post image={image1} posttitle = "Grilled  Tomatoes at Home"/>
+             <Post image={image1} posttitle = "How To Grill Corn"/>
+             <Post image={image4} posttitle = "Crunchwrap Supreme"/>
+             <Post image={image5} posttitle = "Broccoil Cheese Soup"/>
           </div>
               
         </SwiperSlide>
